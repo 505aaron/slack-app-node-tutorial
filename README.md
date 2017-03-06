@@ -1,6 +1,6 @@
 # Slack Application Node Tutorial
 
-See the full write-up of this post at [http://www.lessrework.com/2017/03/slack-app-tutorial-hello-user/](http://www.lessrework.com/2017/03/slack-app-tutorial-hello-user/)
+See the full write-up of this post at [https://www.lessrework.com/2017/03/slack-app-tutorial-hello-user/](https://www.lessrework.com/2017/03/slack-app-tutorial-hello-user/)
 
 ## Install
 
